@@ -1,0 +1,11 @@
+.mySlider {
+    @apply min-h-[70vh];
+
+    .image {
+        @apply w-full h-[80vh] object-cover;
+    }
+
+    .swiper-button-prev.prevBtn {
+        @apply p-3 bg-black;
+    }
+}

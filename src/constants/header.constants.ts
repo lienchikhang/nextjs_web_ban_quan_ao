@@ -21,11 +21,11 @@ export const headerConstants = [
 
 export const navHeaderConstrants = [
     {
-        title: 'Clothes',
+        title: '... Loading',
         url: 'https://www.coolmate.me/'
     },
     {
-        title: 'Pants',
+        title: '... Loading',
         url: 'https://www.coolmate.me/'
     },
 ]

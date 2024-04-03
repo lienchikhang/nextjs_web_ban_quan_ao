@@ -14,7 +14,7 @@ const Nav = () => {
             <ul className={styles.nav__right}>
                 {headerConstants.map((item, index) => {
                     return <li key={index} className={styles.link}>
-                        <Link href={item.url}>{item.title}</Link>
+                        <Link href='/test'>{item.title}</Link>
                     </li>
                 })}
             </ul>
